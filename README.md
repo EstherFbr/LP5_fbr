@@ -13,6 +13,6 @@ Scripts foram feitos na versão 3.12.10 do python.
     - [Markdown Preview gitHub](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
     - [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox)
     - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-- [GitHub](https://git-scm.com/install/windows)
+- [Git](https://git-scm.com/install/windows)
 
 
